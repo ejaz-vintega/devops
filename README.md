@@ -16,7 +16,7 @@ This sets up
 - PM2
 
 #### Note: 
-- Most of these modules are optional and can be skipped or already installed.
+- Most of these modules are optional and can be skipped (automatically skipped if already installed).
 
 ### Requirement
 -Ubuntu 20.04+ (or compatible Debian OS)
