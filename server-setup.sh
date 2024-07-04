@@ -24,7 +24,7 @@ else
     sudo apt-get install -y build-essential openssl libssl-dev pkg-config
     
     ##Install NodeJS
-    echo "which Node.js version you would like to install?"
+    echo "which Node.js major version you would like to install e.g. 20?"
     read -r NODE_MAJOR
     
     sudo apt-get update && sudo apt-get install -y ca-certificates curl gnupg
