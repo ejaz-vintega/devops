@@ -19,7 +19,7 @@ This sets up
 - Most of these modules are optional and can be skipped (automatically skipped if already installed).
 
 ### Requirement
--Ubuntu 20.04+ (or compatible Debian OS)
+- Ubuntu 20.04+ (or compatible Debian OS)
 - ~/.ssh/id_rsa key needs to be created for git deployment
 - Set permissions as sudo chmod 600 ~/.ssh/id_rsa to restrict access
 - Make sure to point your domain to the server IP for SSL to work.
