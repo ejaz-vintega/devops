@@ -1,8 +1,7 @@
-# DevOps Utilities
-
+# High Performance MERN stack setup
 ## Overview
 
-This repository provides a collection of DevOps scripts and code snippets designed to automate and streamline various development and operational tasks. Our goal is to offer robust and easy-to-use tools for common server setup and management processes.
+This repository provides a shell script designed to automate and streamline the setup of MERN stack. Furthermore, it adds production grrade tools e.g. Redis, PM2 etc to manage this stack. It install Ngix with SSH enabled (Make sure have fully qualified domain). Our goal is to offer robust and easy-to-use tools for easy server setup and management processes.
 
 ## Scripts
 
